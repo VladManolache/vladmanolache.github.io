@@ -32,7 +32,8 @@
                     "/banking/products/196/open",
                     "/banking/services/*",
                     "/banking/mobile/*",
-                    "/banking/chat"
+                    "/banking/chat",
+                    "*"
                 ]
             },
             {
